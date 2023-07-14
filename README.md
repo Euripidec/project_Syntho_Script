@@ -1,34 +1,70 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Syntho Script
 
-## Getting Started
+> Syntho Script is a groundbreaking open-source AI prompting tool designed for the modern world.
+> It serves as a platform for users to discover, create, and share creative prompts. With its advanced AI algorithms, Syntho Script     
+> offers a wide range of prompt suggestions across various genres and artistic mediums,
+> providing inspiration to writers, artists, and creators. The tool promotes collaboration and community engagement by allowing users to > share their prompts, fostering a vibrant and inclusive environment for learning and creativity. 
 
-First, run the development server:
+## Key Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Some of the standout features of the project are
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1.  Users can register and login useing thier own Google accounts
+2.  Keep track of how many posts a user has made
+3.  Your own profile to keep track of your posts
+4.  Ability to edit and delete posts
+5.  Ability to add hashtags in order to more easily guess the topic of posts
+6.  Searching
+7.  Ability to go into the profiles of other users to see thier posts
+8.  One-click copy
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Demonstration
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+#### Personal Profile :
 
-## Learn More
+![Personal Profile](https://github.com/Euripidec/Face-Detect-Website/assets/111103974/74edb851-71ca-44e8-9b61-3db03e95de70)
 
-To learn more about Next.js, take a look at the following resources:
+#### Creating Posts :
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Creating Posts](https://github.com/Euripidec/Face-Detect-Website/assets/111103974/449086fd-c7c6-4555-b3ec-1a7596a00d36)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+#### Searching Posts :
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Searching Posts](https://github.com/Euripidec/Face-Detect-Website/assets/111103974/0fedf321-ba33-4740-8ba1-a0e4fa6306c2)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+## This project consists of :
+
+<ul>
+  <li><b>Login: </b> Built useing O auth</li>
+  <li><b>Frontend: </b>Built using React and Next.Js 13</li>
+  <li><b>CSS: </b>Built using tailwing</li>
+  <li><b>Database: </b>MongoDB, for storing user posts</li>
+</ul>
+
+## Technologies
+
+1. reactjs
+2. next.js 13
+3. mongoDB
+4. tailwind
+
+#### To run this project :
+
+1. Clone this repo
+2. Change your directory : `cd Face-Detect-Website`
+3. Run `npm install`
+4. Run `npm start`
+
+
+#### Future Updates
+
+No ideas now but there's always room for improvement!
+
+#### Deployed Version (Feel free to visit) 👇
+
+https://project-syntho-script-bpnbz0tvd-euripidec.vercel.app/
