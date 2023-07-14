@@ -1,1 +1,0 @@
-# project_Syntho_Script
