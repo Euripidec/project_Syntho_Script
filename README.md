@@ -22,16 +22,16 @@ Some of the standout features of the project are
 
 #### Personal Profile :
 
-![Personal Profile](https://github.com/Euripidec/Face-Detect-Website/assets/111103974/74edb851-71ca-44e8-9b61-3db03e95de70)
+![Personal Profile](https://github.com/Euripidec/project_Syntho_Script/blob/main/public/assets/images/Personalized%20Profile.PNG)
 
 #### Creating Posts :
 
-![Creating Posts](https://github.com/Euripidec/Face-Detect-Website/assets/111103974/449086fd-c7c6-4555-b3ec-1a7596a00d36)
+![Creating Posts](https://github.com/Euripidec/project_Syntho_Script/blob/main/public/assets/images/Post%20Creation.PNG)
 
 
 #### Searching Posts :
 
-![Searching Posts](https://github.com/Euripidec/Face-Detect-Website/assets/111103974/0fedf321-ba33-4740-8ba1-a0e4fa6306c2)
+![Searching Posts](https://github.com/Euripidec/project_Syntho_Script/blob/main/public/assets/images/searching.PNG)
 
 
 
